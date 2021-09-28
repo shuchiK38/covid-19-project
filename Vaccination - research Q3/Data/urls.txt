@@ -1,0 +1,4 @@
+Atlantic 
+https://api.covidactnow.org/v2/county/34001.timeseries.json?apiKey=xxx
+State time series
+https://api.covidactnow.org/v2/county/NJ.timeseries.csv?apiKey=xxx
